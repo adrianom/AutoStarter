@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'mainq.ui'
 #
-# Created: Mon Jan  3 00:48:33 2011
+# Created: Tue Jan  4 22:26:21 2011
 #      by: PyQt4 UI code generator 4.8
 #
 # WARNING! All changes made in this file will be lost!
@@ -37,7 +37,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QtGui.QApplication.translate("MainWindow", "AutoStarter", None, QtGui.QApplication.UnicodeUTF8))
-        self.lista.headerItem().setText(0, QtGui.QApplication.translate("MainWindow", "Name", None, QtGui.QApplication.UnicodeUTF8))
+        self.lista.headerItem().setText(0, QtGui.QApplication.translate("MainWindow", "Programmi", None, QtGui.QApplication.UnicodeUTF8))
         self.pushButton.setText(QtGui.QApplication.translate("MainWindow", "Esegui", None, QtGui.QApplication.UnicodeUTF8))
 
 

@@ -25,7 +25,7 @@
      <widget class="QTreeWidget" name="lista">
       <column>
        <property name="text">
-        <string>Name</string>
+        <string>Programmi</string>
        </property>
       </column>
      </widget>
