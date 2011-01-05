@@ -1,6 +1,6 @@
 '''
 Created on 03/gen/2011
-
+PyQt
 @author: alcko
 '''
 
