@@ -25,7 +25,7 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
         for i in range(0, len(self.a)):
             self.ui.lista.addTopLevelItem(QtGui.QTreeWidgetItem([self.a[i].Name]))
             self.ui.lista.topLevelItem(i).setIcon(0, QtGui.QIcon.fromTheme(self.a[i].Icon))
-           # print(self.a[i].Name)
+            # print(self.a[i].Name)
             
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)
